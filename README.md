@@ -9,9 +9,7 @@ Implementation of differents type of classification algorithms from [scikit-lear
 Use of *breast_cancer* dataset (built-in scikit-learn) as data to process classification.
 
 * **Dependencies**
-  - sklearn
+    - sklearn
     - numpy
-      - pandas
-        - matplotlib# MACHINE LEARNING
-
-## Classification
+    - pandas
+    - matplotlib
